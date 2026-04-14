@@ -171,7 +171,7 @@ P1 = [t P1*x];
 P2 = [t P2*x];
 
 %% Open the unified model
-myModel = 'tester.slx';
+myModel = 'GasSimModel.slx';
 open_system(myModel);
 
 %% Run simulation(s)
